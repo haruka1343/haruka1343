@@ -1,4 +1,4 @@
-Hi, I'm Hisa
+Hi, I'm haruka
 
 I'm a student interested in building things that connect hardware and software.
 
